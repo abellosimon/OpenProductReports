@@ -20,7 +20,7 @@ export default function Home() {
       <div className="text-center max-w-2xl">
         <h1 className="text-4xl font-bold font-[Helvetica] tracking-tight mb-4 text-black" >Open Product Reports</h1>
         <p className="text-lg text-gray-700 mb-6">
-          Real reports from  real people.
+          Real product reports from real people.
         </p>
         <p className="text-md font-serif text-gray-600 mb-8">
         Hi! 👋 My name is Simon, and I am tired of having to type "reddit" after everything when I need an honest and human opinion before making a purchase.
